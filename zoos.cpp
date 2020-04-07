@@ -14,12 +14,11 @@ int main()
 		else if(x[i] == 'o') {
 			o++;			
 		}
-	
 	}
 	if(2*z == o) {
 		cout<<"Yes";
 	}
-	else{
+	else {
 		cout<<"No";
 	}
 		
