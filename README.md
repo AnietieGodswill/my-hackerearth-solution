@@ -1,2 +1,2 @@
 # my-hackerearth-solution
-My codeforces solution 🙂
+Solution of my hackerearth problems
