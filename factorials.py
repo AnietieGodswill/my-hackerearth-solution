@@ -1,5 +1,5 @@
-//Factorial! 
-//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/
+#Factorial! 
+#https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/
 def fact():
     f =1
     for i in range(1,n+1): 
